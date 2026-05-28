@@ -12,6 +12,7 @@ window.__ELPX_MANIFEST__={
     "html/assessment.html",
     "html/rubric.html",
     "html/self-assessment.html",
+    "html/didactic-guide.html",
     "html/credits.html",
     "content.xml",
     "content/css/base.css",
@@ -110,6 +111,8 @@ window.__ELPX_MANIFEST__={
     "content/resources/cbc40da9-0972-0101-d45b-6d92b031fa37.pdf",
     "content/resources/TAREA 8. Evaluación.pdf",
     "content/resources/d0f87e97-634d-3b04-b819-26208fc3f66e.pdf",
+    "content/resources/TAREA 6. Asociamos tareas a Criterios de evaluación.pdf",
+    "content/resources/abcb94c2-be55-e647-3c74-3c028b611692.pdf",
     "libs/elpx-manifest.js"
   ],
   "projectTitle": "Producto final"
