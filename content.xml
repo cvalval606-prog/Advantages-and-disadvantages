@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260528163105DLGQRX</value>
+    <value>20260528165942P47G54</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260528163105Y1ALQE</value>
+    <value>20260528165942TXWM3Y</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -485,7 +485,7 @@
           <odeIdeviceId>idevice-1777846755961-d7urkj5cj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><embed width="100%" height="100%" src="{{context_path}}/content/resources/TAREA 8. RÚBRICA.pdf" type="application/pdf"></embed>RÚBRICA DE EVALUACIÓN </p>
+    <p><embed width="100%" height="500" src="{{context_path}}/content/resources/TAREA 8. RÚBRICA.pdf" type="application/pdf"></embed>RÚBRICA DE EVALUACIÓN </p>
 <p>https://docs.google.com/document/d/17PnV08_hoaB1gAQAhwwnQauVcRd5vFY3zTbdFP7V_j8/edit?tab=t.0</p>
 <p>Escala de valoración </p>
 <p>● 4 – Excelente </p>
@@ -494,7 +494,7 @@
 <p>● 1 – Necesita mejora </p>
 <p><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777846755961-d7urkj5cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"100%\" height=\"100%\" src=\"{{context_path}}/content/resources/TAREA 8. RÚBRICA.pdf\" type=\"application/pdf\"></embed>RÚBRICA DE EVALUACIÓN </p>\n<p>https://docs.google.com/document/d/17PnV08_hoaB1gAQAhwwnQauVcRd5vFY3zTbdFP7V_j8/edit?tab=t.0</p>\n<p>Escala de valoración </p>\n<p>● 4 – Excelente </p>\n<p>● 3 – Adecuado </p>\n<p>● 2 – En progreso </p>\n<p>● 1 – Necesita mejora </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777846755961-d7urkj5cj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"100%\" height=\"500\" src=\"{{context_path}}/content/resources/TAREA 8. RÚBRICA.pdf\" type=\"application/pdf\"></embed>RÚBRICA DE EVALUACIÓN </p>\n<p>https://docs.google.com/document/d/17PnV08_hoaB1gAQAhwwnQauVcRd5vFY3zTbdFP7V_j8/edit?tab=t.0</p>\n<p>Escala de valoración </p>\n<p>● 4 – Excelente </p>\n<p>● 3 – Adecuado </p>\n<p>● 2 – En progreso </p>\n<p>● 1 – Necesita mejora </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -589,6 +589,65 @@
     <p><img src="{{context_path}}/content/resources/TAREA 8. .jpg" width="1366" height="1932" alt="" /></p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1779978612386-lfzl56nwn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/TAREA 8. .jpg\" width=\"1366\" height=\"1932\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779980210757-989prxfir</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DIDACTIC GUIDE</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DIDACTIC GUIDE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779980210757-989prxfir</odePageId>
+      <odeBlockId>block-1779980218282-04u51s48r</odeBlockId>
+      <blockName>Assessment Criteria</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779980210757-989prxfir</odePageId>
+          <odeBlockId>block-1779980218282-04u51s48r</odeBlockId>
+          <odeIdeviceId>idevice-1779980218281-s70jq5dok</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="100%" height="500" src="{{context_path}}/content/resources/TAREA 6. Asociamos tareas a Criterios de evaluación.pdf" type="application/pdf"></embed></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779980218281-s70jq5dok","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"100%\" height=\"500\" src=\"{{context_path}}/content/resources/TAREA 6. Asociamos tareas a Criterios de evaluación.pdf\" type=\"application/pdf\"></embed></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
